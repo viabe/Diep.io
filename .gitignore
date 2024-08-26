@@ -72,3 +72,8 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# ThirdPerson and StarterContent Template
+Content/Characters
+Content/ThirdPerson
+Content/StarterContent
